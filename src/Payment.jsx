@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const RAZORPAY_KEY = "YOUR_KEY_ID"; // 🔑 Replace with your actual Razorpay key
+const RAZORPAY_KEY = "rzp_test_SXLAaYEjzj80Zz"; // 🔑 Replace with your actual Razorpay key
 
 const loadRazorpay = () =>
   new Promise((resolve) => {
